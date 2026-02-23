@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 📚 I am a year 2 student in computer science at Romanian-American University.
 
