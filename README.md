@@ -4,4 +4,4 @@
 
 📝 Feel free to learn more about my experiences [LinkedIn](https://www.linkedin.com/in/florin-iulian-popescu/).
 
-📫 Reach my out by email: iulian2414@gmail.com
+📫 Reach my out by email iulian2414@gmail.com.
