@@ -1,2 +1,2 @@
-Software & Game Developer
-Computer Science @ Romanian-American University
+Software & Game Developer <br />
+Computer Science @ Romanian-American University <br />
